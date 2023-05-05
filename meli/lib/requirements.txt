@@ -1,0 +1,5 @@
+requests
+firebase
+firebase_admin
+schedule
+pillow
